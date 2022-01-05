@@ -1,7 +1,8 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=kacpergottel&label=Profile%20views&color=0e75b6&style=flat" alt="kacpergottel" /> </p>
+
 <h1 align="center">Hi 👋, I'm Kacper</h1>
 <h3 align="center">I'm developing my skills in Java / Spring Boot coding in back-end</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=kacpergottel&label=Profile%20views&color=0e75b6&style=flat" alt="kacpergottel" /> </p>
 
 - 🔭 I’m currently working on [Flight search: airlines](https://github.com/KacperGottel/airlines)
 
