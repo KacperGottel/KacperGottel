@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Flight search: airlines](https://github.com/KacperGottel/airlines)
 
-- 🌱 I’m currently learning **Spring Security, next step: Python**
+- 🌱 I’m currently learning **Spring Security advanced, next step: Microservice Architecture**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
