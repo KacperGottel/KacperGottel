@@ -4,9 +4,9 @@
 <h3 align="center">I'm developing my skills in Java / Spring Boot coding in back-end</h3>
 
 
-- 🔭 I’m currently working on [Flight search: airlines](https://github.com/KacperGottel/airlines)
+- 🔭 I’m currently working on [charity-donation](https://github.com/KacperGottel/charity-donation).
 
-- 🌱 I’m currently learning **Spring Security advanced, next step: Microservice Architecture**
+- 🌱 I’m currently learning **JUnit + Mockito**, next step: **Spring Security advanced**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
