@@ -6,7 +6,7 @@
 <br>
 - 🔭 I’m currently working on [charity-donation](https://github.com/KacperGottel/charity-donation).
 <br>
-- 🌱 I’m currently learning **JUnit + Mockito**, next step: **Spring Security advanced**.
+- 🌱 I’m currently learning **React**
 <br><h1><br></h1><br>
 
 <h3 align="center">Languages and Tools:</h3>
