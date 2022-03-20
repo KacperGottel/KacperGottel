@@ -2,9 +2,9 @@
 <br><br>
 <h1 align="center">Hi 👋, I'm Kacper</h1>
 <br>
-<h3 align="center">I'm developing my back-end coding skills in Java</h3>
+<h3 align="center">I'm developing my coding skills in Java</h3>
 <br>
-- 🔭 I’m currently working on [charity-donation](https://github.com/KacperGottel/charity-donation).
+- 🔭 I’m currently working on internal projects of corporation I work for.
 <br>
 - 🌱 I’m currently learning **React**
 <br><h1><br></h1><br>
