@@ -2,11 +2,11 @@
 <br><br>
 <h1 align="center">Hi 👋, I'm Kacper</h1>
 <br>
-<h3 align="center">I'm developing my coding skills in Java</h3>
+<h3 align="center">I'm developing my coding skills in Spring boot + Angular</h3>
 <br>
-- 🔭 I’m currently working on internal projects of corporation I work for.
+- 🔭 I’m currently working on customer's projects in software house i  work for.
 <br>
-- 🌱 I’m currently learning **React**
+- 🌱 After work, I develop my portfolio's projects and learn new technologies and practice my English
 <br><h1><br></h1><br>
 
 <h3 align="center">Languages and Tools:</h3>
